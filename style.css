@@ -44,7 +44,6 @@ header {
   position: relative;
   display: flex;
   justify-content: space-between;
-  overflow: hidden;
 }
 
 .navigation .logo a {
@@ -57,6 +56,7 @@ header {
 }
 .navbar-nav {
   padding: 0.8rem 0 0.2rem 0;
+  overflow: hidden;
 }
 .navbar-nav a {
   text-transform: uppercase;
