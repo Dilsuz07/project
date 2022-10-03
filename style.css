@@ -45,6 +45,7 @@ header {
   display: flex;
   justify-content: space-between;
   overflow: hidden;
+  background-color: rebeccapurple;
 }
 
 .navigation .logo a {
